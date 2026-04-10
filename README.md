@@ -16,8 +16,15 @@ Proceed at your own discretion<br>
 <div align="center">
 <br>
 <br>
-A free macro for Hyaku Asura<br>
-
+A free macro for Hyaku Asura, Join the discord for guide on how to use it and settings: [Join Discord](https://discord.gg/qk6qpESY4J)<br>
+<br>
+this Macro only includes the following features: <br>
+<br>
+- Stamina Training Auto Bed for gangbase (**Requires In game Macro**) <br>
+- Faster Punching Bag Macro (No Autobed)<br>
+- Fatigue Detection<br>
+- Hunger Detection and Auto Eat<br>
+- Stamina Detection
 
 
 
