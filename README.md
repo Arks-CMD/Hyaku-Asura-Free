@@ -25,20 +25,36 @@ this Macro only includes the following features: <br>
 - Fatigue Detection<br>
 - Hunger Detection and Auto Eat<br>
 - Stamina Detection
+<br>
+  <br>
+<h2>Download Instructions</h2> <br>
+Click on Hyaku Asura v1.0.0 under Release<br>
+<img width="1306" height="661" alt="image" src="https://github.com/user-attachments/assets/966824ee-44a1-480f-8016-a9a8c5025190" /><br>
+
+Then Click on x64 or x32 version if you have a very old computer<br>
+<img width="1336" height="863" alt="image" src="https://github.com/user-attachments/assets/6ace06fb-5d01-48c9-972a-05173d8cb9b6" /><br>
+Search for file explorer in your pc and go to Downloads folder<br>
+<img width="354" height="678" alt="image" src="https://github.com/user-attachments/assets/f42df568-f790-439e-b9bc-0ff456236e21" />
+<img width="625" height="278" alt="image" src="https://github.com/user-attachments/assets/957f6c95-cef8-48e4-a940-59fe0c73af59" /><br>
+Right Click on your downloaded HyakuAsura zip file and extract the files, if it prompts you anything regarding extracting the file just press ok or done. <br>
+<img width="476" height="109" alt="image" src="https://github.com/user-attachments/assets/6d61acf5-56cf-46ef-972f-b8f9415c67fc" /> <br>
+Then click your newly extracted HyakuAsura file and launch the exe file
+<img width="719" height="176" alt="image" src="https://github.com/user-attachments/assets/bdfda546-8e1b-4389-9902-1a1c1409eba8" />
 
 
 
 
 
+
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+The Macro is safe and is an imagedetection macro using in built AutoHotKey Functions <br>
+<img width="1839" height="1090" alt="image" src="https://github.com/user-attachments/assets/16e8de41-a6ba-4ec8-9ce3-ad393e6814ae" />
+
 <br>
 <br>
 <br>
